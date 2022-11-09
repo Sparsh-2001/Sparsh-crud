@@ -1,48 +1,28 @@
-<p align="center">
-  <p align="center">
-    <a href="https://justdjango.com/?utm_source=github&utm_medium=logo" target="_blank">
-      <img src="https://assets.justdjango.com/static/branding/logo.svg" alt="JustDjango" height="72">
-    </a>
-  </p>
-  <p align="center">
-    The Definitive Django Learning Platform.
-  </p>
-</p>
+# Mern-Stack-Crud-App
 
-# Django React Ecommerce
-
-<p align="center">
-  <a href="https://youtu.be/RG_Y7lIDXPM"><img src="https://github.com/justdjango/django-react-ecommerce/blob/master/thumbnail.png" width="290"></a>
-</p>
-
-This repository contains a Django and React ecommerce project. Among other functionality, users can create their account, add items to their cart and purchase those items using Stripe.
+This is a simple crud project for beginners built with the following technologies:
+- [React] and [React Router]for the frontend
+- [Express] and [Mongoose]for the backend
 
 
-## Backend development workflow
+## Requirements
 
-```json
-virtualenv env
-source env/bin/activate
-pip install -r requirements.txt
-python manage.py runserver
+- [Node.js](https://nodejs.org/en/) 10+
+
+```shell
+npm install
 ```
 
-## Frontend development workflow
 
-```json
-npm i
-npm start
+## Usage
+
+- Backend
+```shell
+node server.js
 ```
 
-## For deploying
-
-```json
-npm run build
+- Frontend
+```shell
+cd client && npm start
 ```
 
----
-
-<div align="center">
-
-
-</div>
