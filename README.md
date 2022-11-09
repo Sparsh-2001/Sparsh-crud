@@ -7,7 +7,7 @@ This is a simple crud project for beginners built with the following technologie
 
 ## Requirements
 
-- [Node.js](https://nodejs.org/en/) 10+
+- [Node.js]
 
 ```shell
 npm install
